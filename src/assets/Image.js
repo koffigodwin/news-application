@@ -1,0 +1,1 @@
+ export const Image = 'https://cdn.pixabay.com/photo/2022/11/01/11/30/breaking-news-7562021_640.jpg'
